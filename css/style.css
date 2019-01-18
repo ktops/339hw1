@@ -1,0 +1,23 @@
+body{
+  background: black;
+  color: hotpink;
+  size: 250%;
+  margin: 70;
+}
+
+p{
+  /* font-size: 60px; */
+  font-family: Arial;
+}
+
+a{
+  color: purple;
+}
+
+* {
+  color: green;
+}
+
+a:focus{
+  border: 1px;
+}
